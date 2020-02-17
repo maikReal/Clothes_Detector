@@ -1,0 +1,36 @@
+item { 
+id: 1
+name: 'Jackets'
+} 
+item { 
+id: 2
+name: 'Jeans'
+} 
+item { 
+id: 3
+name: 'Shirts'
+} 
+item { 
+id: 4
+name: 'Shoes'
+} 
+item { 
+id: 5
+name: 'Skirts'
+} 
+item { 
+id: 6
+name: 'sunglasses'
+} 
+item { 
+id: 7
+name: 'Tops'
+} 
+item { 
+id: 8
+name: 'Trousers'
+} 
+item { 
+id: 9
+name: 'Tshirts'
+}
