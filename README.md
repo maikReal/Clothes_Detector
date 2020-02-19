@@ -6,3 +6,4 @@ In this repository you can find just some small part of information. All other n
 2. Images - https://drive.google.com/drive/folders/1NqXbpziyMHmoo7lyPNPjf4CrO0WarlCq?usp=sharing
 3. Annotation - https://drive.google.com/file/d/1hD7zgtJxrKxkvIDhJ0hgUhJ8p1IA-8qy/view?usp=sharing
 4. Record file - https://drive.google.com/file/d/1-fGpANUjqcn1VeYLpOUQPwN7HUUfBQzj/view?usp=sharing
+5. Main Notebook = https://colab.research.google.com/drive/10Xa6UApGy3uuM2D09klxYyWj3yskTK9X
